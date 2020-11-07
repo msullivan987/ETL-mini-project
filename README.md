@@ -1,4 +1,4 @@
-**Data Cleanup & Analysis**
+# **Data Cleanup & Analysis**
 
 Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
 
@@ -17,7 +17,7 @@ Once you have identified your datasets, perform ETL on the data. Make sure to pl
 ------------------------------
 
 
-**Project Report**
+# **Project Report**
 
 * Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
