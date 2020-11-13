@@ -24,7 +24,7 @@ Once you have identified your datasets, perform ETL on the data. Make sure to pl
   
   * Three tables were created for our Bechdel test data. The first test looks only at the imdb id, titles of the films, and whether or not the films passed the Bechdel test. The second and third datasets are both related to the budget of the film. The first of these shows original film budgets, domestic gross revenue, and international gross revenue. The second of these budget tables shows these same figures but adjusted to inflation rates up to 2013.
   
-  * We chose not to perform an inner join on the two datasets in order to filter out films that were not present in both examples. Because the Bechdel dataset is relevant to films on Netflix in 2013, we thought it would be interesting to have available the option to see which films have been removed and which have been added. It would be an interesting analysis, for example, to see whether or not films the passed the Bechdel test were more likely to have been removed from Netflix.
+  * We chose not to perform an inner join on the two datasets in order to filter out films that were not present in both examples. Because the Bechdel dataset is relevant to films on Netflix in 2013, we thought it would be interesting to have available the option to see which films have been removed and which have been added. It would be an interesting analysis, for example, to see whether or not films that passed the Bechdel test were more likely to have been removed from Netflix.
     
 
 
